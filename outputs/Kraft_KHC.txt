@@ -1,0 +1,60 @@
+
+Kraft:KHC : 2019: Year Avg: 30.27
+
+	Trend Start Date :03/18/2019 with an average price of: 31.81
+	Trend End Date: 05/22/2019 with an average price of: 31.91
+	The max price was 33.3 on 04/22/2019
+
+	Trend Start Date :11/01/2019 with an average price of: 32.75
+	Trend End Date: 11/13/2019 with an average price of: 33.07
+	The max price was 33.2 on 11/06/2019
+
+	Trend Start Date :12/19/2019 with an average price of: 31.86
+	Trend End Date: 12/24/2019 with an average price of: 31.97
+	The max price was 32.06 on 12/23/2019
+
+Kraft:KHC : 2020: Year Avg: 30.8
+
+	Trend Start Date :06/16/2020 with an average price of: 32.46
+	Trend End Date: 06/23/2020 with an average price of: 32.84
+	The max price was 33.39 on 06/19/2020
+
+	Trend Start Date :07/13/2020 with an average price of: 32.57
+	Trend End Date: 09/08/2020 with an average price of: 32.41
+	The max price was 35.95 on 08/17/2020
+
+	Trend Start Date :11/23/2020 with an average price of: 32.53
+	Trend End Date: 12/30/2020 with an average price of: 34.83
+	The max price was 35.17 on 12/28/2020
+
+Kraft:KHC : 2021: Year Avg: 37.94
+
+	Trend Start Date :04/05/2021 with an average price of: 40.28
+	Trend End Date: 07/06/2021 with an average price of: 39.91
+	The max price was 44.6 on 05/24/2021
+
+Kraft:KHC : 2022: Year Avg: 38.11
+
+	Trend Start Date :04/07/2022 with an average price of: 40.91
+	Trend End Date: 05/18/2022 with an average price of: 40.98
+	The max price was 44.26 on 05/16/2022
+
+	Trend Start Date :12/08/2022 with an average price of: 40.02
+	Trend End Date: 12/14/2022 with an average price of: 40.3
+	The max price was 40.3 on 12/14/2022
+
+	Trend Start Date :12/21/2022 with an average price of: 40.14
+	Trend End Date: 12/29/2022 with an average price of: 40.56
+	The max price was 40.78 on 12/27/2022
+
+Kraft:KHC : 2023: Year Avg: 36.63
+
+	Trend Start Date :01/03/2023 with an average price of: 40.57
+	Trend End Date: 03/07/2023 with an average price of: 38.69
+	The max price was 42.49 on 01/09/2023
+
+	Trend Start Date :03/27/2023 with an average price of: 38.52
+	Trend End Date: 05/24/2023 with an average price of: 38.73
+	The max price was 41.12 on 05/08/2023
+
+Kraft:KHC : 2024: Year Avg: 36.37

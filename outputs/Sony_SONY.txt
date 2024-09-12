@@ -1,0 +1,76 @@
+
+Sony:SONY : 2019: Year Avg: 55.27
+
+	Trend Start Date :09/04/2019 with an average price of: 58.25
+	Trend End Date: 10/01/2019 with an average price of: 58.31
+	The max price was 60.31 on 09/13/2019
+
+	Trend Start Date :10/11/2019 with an average price of: 58.45
+	Trend End Date: 12/30/2019 with an average price of: 67.52
+	The max price was 68.24 on 12/16/2019
+
+Sony:SONY : 2020: Year Avg: 73.77
+
+	Trend Start Date :07/27/2020 with an average price of: 78.12
+	Trend End Date: 07/30/2020 with an average price of: 78.05
+	The max price was 78.15 on 07/29/2020
+
+	Trend Start Date :08/03/2020 with an average price of: 80.04
+	Trend End Date: 09/03/2020 with an average price of: 77.83
+	The max price was 83.33 on 08/04/2020
+
+	Trend Start Date :09/17/2020 with an average price of: 77.51
+	Trend End Date: 09/24/2020 with an average price of: 77.65
+	The max price was 79.25 on 09/18/2020
+
+	Trend Start Date :10/27/2020 with an average price of: 77.62
+	Trend End Date: 12/30/2020 with an average price of: 100.31
+	The max price was 100.31 on 12/30/2020
+
+Sony:SONY : 2021: Year Avg: 107.6
+
+	Trend Start Date :02/10/2021 with an average price of: 113.39
+	Trend End Date: 02/22/2021 with an average price of: 113.97
+	The max price was 115.86 on 02/19/2021
+
+	Trend Start Date :09/22/2021 with an average price of: 114.15
+	Trend End Date: 09/28/2021 with an average price of: 114.2
+	The max price was 117.05 on 09/24/2021
+
+	Trend Start Date :10/25/2021 with an average price of: 115.08
+	Trend End Date: 12/30/2021 with an average price of: 126.23
+	The max price was 127.79 on 12/28/2021
+
+Sony:SONY : 2022: Year Avg: 87.99
+
+	Trend Start Date :01/03/2022 with an average price of: 126.41
+	Trend End Date: 04/11/2022 with an average price of: 93.55
+	The max price was 131.03 on 01/05/2022
+
+	Trend Start Date :05/31/2022 with an average price of: 94.15
+	Trend End Date: 06/06/2022 with an average price of: 92.61
+	The max price was 94.56 on 06/01/2022
+
+Sony:SONY : 2023: Year Avg: 88.57
+
+	Trend Start Date :05/11/2023 with an average price of: 93.13
+	Trend End Date: 06/22/2023 with an average price of: 93.69
+	The max price was 100.49 on 06/13/2023
+
+	Trend Start Date :07/17/2023 with an average price of: 93.33
+	Trend End Date: 08/01/2023 with an average price of: 93.6
+	The max price was 95.0 on 07/18/2023
+
+	Trend Start Date :12/27/2023 with an average price of: 93.76
+	Trend End Date: 12/28/2023 with an average price of: 94.38
+	The max price was 94.38 on 12/28/2023
+
+Sony:SONY : 2024: Year Avg: 92.62
+
+	Trend Start Date :01/11/2024 with an average price of: 97.46
+	Trend End Date: 01/24/2024 with an average price of: 98.78
+	The max price was 100.16 on 01/12/2024
+
+	Trend Start Date :01/30/2024 with an average price of: 97.76
+	Trend End Date: 02/05/2024 with an average price of: 97.33
+	The max price was 98.55 on 01/31/2024

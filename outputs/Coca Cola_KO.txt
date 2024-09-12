@@ -1,0 +1,56 @@
+
+Coca Cola:KO : 2019: Year Avg: 51.79
+
+	Trend Start Date :08/27/2019 with an average price of: 54.68
+	Trend End Date: 09/09/2019 with an average price of: 54.72
+	The max price was 55.61 on 09/04/2019
+
+	Trend Start Date :12/20/2019 with an average price of: 54.84
+	Trend End Date: 12/30/2019 with an average price of: 55.23
+	The max price was 55.23 on 12/27/2019
+
+Coca Cola:KO : 2020: Year Avg: 49.95
+
+	Trend Start Date :01/02/2020 with an average price of: 55.09
+	Trend End Date: 03/10/2020 with an average price of: 52.48
+	The max price was 59.84 on 02/14/2020
+
+	Trend Start Date :11/09/2020 with an average price of: 52.66
+	Trend End Date: 11/27/2020 with an average price of: 52.9
+	The max price was 53.95 on 11/16/2020
+
+	Trend Start Date :12/04/2020 with an average price of: 53.31
+	Trend End Date: 12/30/2020 with an average price of: 54.33
+	The max price was 54.33 on 12/30/2020
+
+Coca Cola:KO : 2021: Year Avg: 54.07
+
+	Trend Start Date :07/23/2021 with an average price of: 56.89
+	Trend End Date: 08/03/2021 with an average price of: 56.88
+	The max price was 57.23 on 07/27/2021
+
+	Trend Start Date :08/10/2021 with an average price of: 56.91
+	Trend End Date: 08/18/2021 with an average price of: 56.82
+	The max price was 57.28 on 08/17/2021
+
+	Trend Start Date :12/13/2021 with an average price of: 57.44
+	Trend End Date: 12/30/2021 with an average price of: 58.99
+	The max price was 58.99 on 12/30/2021
+
+Coca Cola:KO : 2022: Year Avg: 61.65
+
+	Trend Start Date :04/19/2022 with an average price of: 64.85
+	Trend End Date: 04/29/2022 with an average price of: 65.26
+	The max price was 66.36 on 04/21/2022
+
+	Trend Start Date :08/16/2022 with an average price of: 64.78
+	Trend End Date: 08/19/2022 with an average price of: 65.22
+	The max price was 65.22 on 08/19/2022
+
+Coca Cola:KO : 2023: Year Avg: 59.88
+
+	Trend Start Date :04/14/2023 with an average price of: 62.97
+	Trend End Date: 05/17/2023 with an average price of: 63.07
+	The max price was 64.38 on 05/01/2023
+
+Coca Cola:KO : 2024: Year Avg: 59.94

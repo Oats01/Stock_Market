@@ -1,0 +1,43 @@
+
+Logitech:LOGI : 2019: Year Avg: 51.79
+
+Logitech:LOGI : 2020: Year Avg: 49.95
+
+	Trend Start Date :05/15/2020 with an average price of: 52.76
+	Trend End Date: 12/30/2020 with an average price of: 97.44
+	The max price was 97.44 on 12/30/2020
+
+Logitech:LOGI : 2021: Year Avg: 54.07
+
+	Trend Start Date :01/04/2021 with an average price of: 97.86
+	Trend End Date: 12/30/2021 with an average price of: 84.19
+	The max price was 138.91 on 06/09/2021
+
+Logitech:LOGI : 2022: Year Avg: 61.65
+
+	Trend Start Date :01/03/2022 with an average price of: 84.52
+	Trend End Date: 05/02/2022 with an average price of: 65.97
+	The max price was 86.42 on 01/05/2022
+
+Logitech:LOGI : 2023: Year Avg: 59.88
+
+	Trend Start Date :01/04/2023 with an average price of: 64.09
+	Trend End Date: 01/11/2023 with an average price of: 67.61
+	The max price was 67.61 on 01/11/2023
+
+	Trend Start Date :05/02/2023 with an average price of: 63.15
+	Trend End Date: 06/05/2023 with an average price of: 62.88
+	The max price was 65.94 on 05/26/2023
+
+	Trend Start Date :06/07/2023 with an average price of: 63.19
+	Trend End Date: 06/13/2023 with an average price of: 63.9
+	The max price was 63.9 on 06/13/2023
+
+	Trend Start Date :07/14/2023 with an average price of: 63.02
+	Trend End Date: 12/28/2023 with an average price of: 94.58
+	The max price was 94.58 on 12/28/2023
+
+Logitech:LOGI : 2024: Year Avg: 59.94
+	Trend Start Date :01/02/2024 with an average price of: 93.73
+	Still trending on 03/15/2024 with an average price of: 94.69
+	The max price was 96.19 on 01/12/2024
